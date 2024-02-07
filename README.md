@@ -1,6 +1,6 @@
 # scanners
 
-Никогда не используйте InputStream после того как надели на него Scanner.
+Никогда не используйте `InputStream` после того как надели на него `Scanner`.
 
 Это демонстрация к [вопросу на ruSO "Scanner и System.in: нужно ли закрывать"](https://ru.stackoverflow.com/questions/1565206).
 
